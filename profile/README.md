@@ -1,6 +1,8 @@
 `WASMwand` is a verified compiler and runtime for `WASM`. For a work-in-progress
-whitepaper email `carson@surmeier.us` (my timezone is [UTC -5](https://time.is/CT)). 
-For information about Prescience Lab, refer to the [Plab site](http://presciencelab.org/).
+whitepaper email me at `carson@surmeier.us`. 
+
+For information about the Prescience Lab at Northwestern, refer to the 
+[Plab site](http://presciencelab.org/).
 
 Projects related to reading groups are hosted here as well. For Fall Quarter 
 2023, here are the reading groups in session:
