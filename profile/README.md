@@ -1,4 +1,5 @@
-`WASMwand` is a verified choreographic compiler and `WASM` unikernel runtime targeting `CHERI-RISC-V`. 
+`WASMwand` is a verified choreographic compiler and `WASM` unikernel runtime 
+targeting `CHERI-RISC-V`. Inspired by this [HoTT paper](https://arxiv.org/abs/1705.07442).
 
 For information about the Prescience Lab at Northwestern, refer to the 
 [Plab site](http://presciencelab.org/).
