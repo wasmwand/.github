@@ -1,5 +1,5 @@
-`WASMwand` is a verified compiler and runtime for `WASM`. For a work-in-progress
-whitepaper email me at `carson@surmeier.us`. 
+`WASMwand` is a verified choreographic compiler and `WASM` runtime. 
+For a work-in-progress whitepaper email me at `carson@surmeier.us`. 
 
 For information about the Prescience Lab at Northwestern, refer to the 
 [Plab site](http://presciencelab.org/).
