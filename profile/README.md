@@ -1,5 +1,6 @@
 `WASMwand` is a verified choreographic compiler and `WASM` unikernel runtime 
-targeting `CHERI-RISC-V`. Inspired by this [HoTT paper](https://arxiv.org/abs/1705.07442).
+targeting `CHERI-RISC-V`. Leverages a novel approach based on homotopy
+type theory, higher-order category theory, and interaction combinators. 
 
 For information about the Prescience Lab at Northwestern, refer to the 
 [Plab site](http://presciencelab.org/).
