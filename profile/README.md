@@ -1,6 +1,4 @@
-`WASMwand` is a verified choreographic compiler and `WASM` unikernel runtime 
-targeting `CHERI-RISC-V`. Leverages a novel `MLIR` dialect based on homotopy
-type theory, higher-order category theory, and interaction combinators. 
+For project details email me at `carson@surmeier.us`. 
 
 For information about the Prescience Lab at Northwestern, refer to the 
 [Plab site](http://presciencelab.org/).
@@ -14,5 +12,4 @@ Projects related to reading groups are hosted here as well. For Fall Quarter
 
 - Rust Kernel Development @Northwestern
 
-For a work-in-progress whitepaper email me at `carson@surmeier.us`. For general questions, join the discussion on [Matrix](https://matrix.wasmwand.com)
-
+Join the discussion on [Matrix](https://matrix.wasmwand.com)
